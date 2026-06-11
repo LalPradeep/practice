@@ -1,5 +1,5 @@
-Day1_CSharpBasics/bin/
-Day1_CSharpBasics/obj/
+Day1_CSharpBasics/**/
+#Day1_CSharpBasics/obj/
 **/*.csproj
 **/*.slnx
 # Ignore all hidden files
